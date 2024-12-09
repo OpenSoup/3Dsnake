@@ -1,2 +1,3 @@
 # 3Dsnake
-https://www.bilibili.com/video/BV1Ta411M7Ph/?vd_source=791b21e41deb7442480d1e311524211f
+一个通过python和tkinter编写的3d版贪吃蛇游戏
+*该代码仅用于学习交流用途，请勿用于商业用途！*
